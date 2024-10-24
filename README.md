@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Digital Marketing Agency as a Sr. Web Designer.<br>🌱 I’m currently learning React<br>
+🔭 I am a professional Front-End Developer with over 5 years of experience, including 1 year of experience in ReactJS. I have worked on challenging team projects that helped me to develop self-learning and time-management skills. I seek an organization where my knowledge and abilities can be used effectively. I am eager to learn, grow under senior leadership, and contribute thoughtful recommendations, designs, and edits. Additionally, I would like to share my knowledge, abilities, experience, and skills with my organization and team members🌱.<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ram-kumar-shrestha&icon=8&color=0)](https://visitcount.itsvg.in)
