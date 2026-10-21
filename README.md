@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I am a professional Front-End Developer with over 6 years of experience. I have worked on challenging team projects that helped me to develop self-learning and time-management skills. I seek an organisation where my knowledge and abilities can be used effectively. I am eager to learn, grow under senior leadership, and contribute thoughtful recommendations, designs, and edits. Additionally, I would like to share my knowledge, abilities, experience, and skills with my organisation and team members🌱.<br>
+🔭 Senior Front-End Developer with 7+ years of experience building high-performance, scalable web applications and 
+enterprise design systems using React.js, Next.js, and TypeScript. Proven track record in optimizing Core Web Vitals, 
+implementing micro-frontend/component-driven architectures, and driving page load speed improvements by up to 60% 
+across international web apps. Adept at scaling consumer-facing platforms, integrating complex reservation engines, and 
+collaborating in fast-paced Agile environments to deliver robust, accessible, and user-centric software solutions. 🌱.<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ram-kumar-shrestha&icon=8&color=0)](https://visitcount.itsvg.in)
