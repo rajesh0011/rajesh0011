@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://raj-rathor.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-raj--rathor.netlify.app-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://visitcount.itsvg.in/api?id=rajesh0011&icon=8&color=0" alt="Profile views" />
 </p>
 
 ---
@@ -24,8 +23,8 @@ I'm a Front-End Developer based in **Gurgaon, India** with **7+ years of experie
 ## 🌐 Socials
 
 <p>
-  <a href="https://instagram.com/raj.rathor_"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/rajesh-rathor-5a4207153"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/be.a.raj"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/rajesh-rathore-5a4207153"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:rajeshrathaur0011@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail" /></a>
 </p>
 
@@ -79,19 +78,6 @@ I'm a Front-End Developer based in **Gurgaon, India** with **7+ years of experie
 
 ---
 
-## 🚀 Featured Projects
-
-> Replace the placeholder links and descriptions below with your real ones, and add a screenshot to each repo.
-
-| Project | Description | Tech | Links |
-| ------- | ----------- | ---- | ----- |
-| **[Shipma](https://github.com/rajesh0011/Shipma)** | Business website focused on a clean, responsive layout and fast load times. | HTML, CSS, JavaScript | [Repo](https://github.com/rajesh0011/Shipma) · [Live](#) |
-| **[M3M Jewel Gurgaon](https://github.com/rajesh0011/m3m-jewel-gurgaon)** | Real-estate landing page with an SEO-friendly, mobile-first structure. | HTML, CSS, JavaScript | [Repo](https://github.com/rajesh0011/m3m-jewel-gurgaon) · [Live](#) |
-| **Your next project** | One line on the problem it solves (e.g. a React component library on npm). | React, TypeScript, Storybook | [Repo](#) · [Live](#) |
-| **Your next project** | One line on the problem it solves (e.g. a Next.js starter template). | Next.js, Tailwind, TypeScript | [Repo](#) · [Live](#) |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -109,7 +95,7 @@ I'm a Front-End Developer based in **Gurgaon, India** with **7+ years of experie
 
 ## 🤝 Let's Connect
 
-I'm always happy to talk about front-end performance, design systems, or a project you have in mind. Reach out on [LinkedIn](https://linkedin.com/in/rajesh-rathor-5a4207153) or check out my [portfolio](https://raj-rathor.netlify.app/).
+I'm always happy to talk about front-end performance, design systems, or a project you have in mind. Reach out on [LinkedIn](https://linkedin.com/in/rajesh-rathore-5a4207153) or check out my [portfolio](https://raj-rathor.netlify.app/).
 
 <p align="center">
   ⭐ If you find any of my repos useful, a star is always appreciated!
